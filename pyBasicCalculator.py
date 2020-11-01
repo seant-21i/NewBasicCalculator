@@ -12,6 +12,7 @@ from PyQt5.QtWidgets import QMessageBox
 import math
 import CSS_Style as st
 
+
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         self.entrada = ''
